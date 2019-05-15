@@ -1,0 +1,14 @@
+Class: Staff
+
+Attributes:
+name (string)
+hire_date (datetime)
+teaching_subjects (array)
+married? boolean
+number_of_children (integer)
+
+Methods:
+recently_had_baby (add to number_of_children)
+days_until_retirement (calculate per hire_date)
+got_married (change_name)
+teaching_more_subjects (append teaching_subjects array)
