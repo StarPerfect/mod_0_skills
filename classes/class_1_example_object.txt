@@ -1,0 +1,16 @@
+Senior is an instance of Student
+
+Attributes:
+first_name "Kayla"
+last_name "Messer"
+class_schedule {1 => "history", 2 => "art", 3 => "calculus", 4 => "advanced chemistry"}
+extra_cirricular_activities ["FBLA", "Yearbook", "Soccer"]
+siblings_in_school no
+how_many_electives 2
+sports_played "Soccer"
+
+Methods:
+change_last_name "Allen"
+change_after_school_activities ["FBLA", "Yearbook", "Soccer", "Prom Committee"]
+drop_class {1 => "history", 2 => "art", 3 => "calculus"}
+game_day "Friday 9/17/2019"
