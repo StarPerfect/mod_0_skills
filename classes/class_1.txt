@@ -1,0 +1,16 @@
+Class: Student
+
+Attributes:
+first_name (string)
+last_name (string)
+class_schedule (hash)
+extra_cirricular_activities (array)
+siblings_in_school (boolean)
+how_many_electives (integer)
+sport_played (string)
+
+Methods:
+change_last_name (edit last_name)
+change_after_school_activities (append extra_cirricular_activities)
+drop_class (remove key:pair from class_schedule)
+game_day (checks the calendar for sport_played to figure out game_days)
