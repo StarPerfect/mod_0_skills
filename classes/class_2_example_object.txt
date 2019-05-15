@@ -1,0 +1,14 @@
+Mrs. White is an instance of Staff
+
+Attributes:
+name "Mrs. White"
+hire_date 3/11/2012
+teaching_subjects ["basic math", "algebra", "honors algebra"]
+married? no
+number_of_children 0
+
+Methods:
+recently_had_baby 1
+days_until_retirement 576
+got_married "Mrs. Black"
+teaching_more_subjects ["basic math", "algebra", "honors algebra", "geometry", "honors geometry"]
